@@ -1,0 +1,11 @@
+C:\Users\sir\source\repos\SMS\SMS\bin\Debug\netcoreapp2.0\SMS.deps.json
+C:\Users\sir\source\repos\SMS\SMS\bin\Debug\netcoreapp2.0\SMS.runtimeconfig.json
+C:\Users\sir\source\repos\SMS\SMS\bin\Debug\netcoreapp2.0\SMS.runtimeconfig.dev.json
+C:\Users\sir\source\repos\SMS\SMS\bin\Debug\netcoreapp2.0\SMS.dll
+C:\Users\sir\source\repos\SMS\SMS\bin\Debug\netcoreapp2.0\SMS.pdb
+C:\Users\sir\source\repos\SMS\SMS\obj\Debug\netcoreapp2.0\SMS.csprojResolveAssemblyReference.cache
+C:\Users\sir\source\repos\SMS\SMS\obj\Debug\netcoreapp2.0\SMS.csproj.CoreCompileInputs.cache
+C:\Users\sir\source\repos\SMS\SMS\obj\Debug\netcoreapp2.0\SMS.AssemblyInfoInputs.cache
+C:\Users\sir\source\repos\SMS\SMS\obj\Debug\netcoreapp2.0\SMS.AssemblyInfo.cs
+C:\Users\sir\source\repos\SMS\SMS\obj\Debug\netcoreapp2.0\SMS.dll
+C:\Users\sir\source\repos\SMS\SMS\obj\Debug\netcoreapp2.0\SMS.pdb
