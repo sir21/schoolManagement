@@ -13122,6 +13122,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\Users\\sir\\source\\repos\\SMS\\SMS\\SMS.csproj",
       "projectName": "SMS",
@@ -13157,6 +13160,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "target": "Package",
+            "version": "2.0.1"
+          },
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "target": "Package",
+            "version": "2.0.0"
+          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "2.0",
@@ -13165,14 +13176,6 @@
           "Microsoft.AspNetCore.All": {
             "target": "Package",
             "version": "2.0.3"
-          },
-          "Microsoft.EntityFrameworkCore.Tools": {
-            "target": "Package",
-            "version": "2.0.1"
-          },
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-            "target": "Package",
-            "version": "2.0.0"
           }
         },
         "imports": [
